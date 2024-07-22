@@ -1,10 +1,11 @@
 {
   "name": "example-hello-world",
   "dependencies": {
-    "nuxt": "latest"
+    "nuxt": "latest",
+    "youtube-transcript": "^1.2.1"
   },
   "scripts": {
-    "dev": "nuxt",
+    "dev": "nuxt dev",
     "build": "nuxt build",
     "start": "nuxt start"
   }
